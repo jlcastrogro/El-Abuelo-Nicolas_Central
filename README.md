@@ -1,4 +1,4 @@
-# El Abuelo Nicolas - Central
+# El abuelo Nicolás - Central
 
 ## Requisitos
 
